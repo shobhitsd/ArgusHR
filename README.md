@@ -58,10 +58,7 @@ An intelligent RAG (Retrieval-Augmented Generation) system that answers HR polic
 4. **Run the application**:
    ```bash
    # Interactive UI (Recommended)
-   streamlit run app.py
-   
-   # Or use the batch file (Windows)
-   run.bat
+   streamlit run app.py --server.fileWatcherType none
    ```
 
 ## Architecture
