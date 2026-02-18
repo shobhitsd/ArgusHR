@@ -19,13 +19,13 @@ A retrieval-augmented generation (RAG) system built to answer HR policy question
 
 ## 📸 Visuals
 
-| ![Assistant UI](https://placehold.co/600x400?text=UI+Screenshot+Placeholder) | ![Prompt Comparison](https://placehold.co/600x400?text=V1+vs+V2+Comparison) |
-|:---:|:---:|
-| *Interactive Chat Interface* | *Structured V2 vs Baseline V1* |
+### Prompt Comparison: Baseline vs. Structured
 
-| ![Evaluation Report](https://placehold.co/600x400?text=Evaluation+Report+Screenshot) |
-|:---:|
-| *Side-by-side Evaluation Logic* |
+| ![Baseline V1](Baseline%20v1.png) | ![Structured V2](Structured%20v2.png) |
+|:---:|:---:|
+| **V1 (Baseline)**: Unstructured, harder to read. | **V2 (Structured)**: Clean, cited, and organized. |
+
+
 
 
 ## 🛠️ Setup Instructions
@@ -54,12 +54,7 @@ A retrieval-augmented generation (RAG) system built to answer HR policy question
    GROQ_API_KEY=your_key_here
    ```
 
-4. **Verify Setup**:
-   ```bash
-   python verify_keys.py
-   ```
-
-5. **(Optional) Run UI**:
+4. **(Optional) Run UI**:
    To use the interactive chat interface:
    ```bash
    pip install streamlit
