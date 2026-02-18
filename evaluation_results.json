@@ -1,0 +1,86 @@
+[
+    {
+        "id": 1,
+        "category": "Answerable",
+        "question": "What is the dental coverage in UAE?",
+        "v1_answer": "According to the provided context (Source 1: 03-uae-handbook.pdf, Page 16), the dental coverage in UAE is as follows:\n* Annual dental allowance or coverage: Typically AED 1,000 - AED 3,000 per year for routine care (cleaning, fillings, extractions)\n* Major dental work (crowns, implants): subject to separate limit or approval",
+        "v2_answer": "**Direct Answer**: The dental coverage in UAE typically includes an annual dental allowance or coverage for routine care, with specific limits for major dental work. The annual dental allowance ranges from AED 1,000 to AED 3,000 per year.\n\n**Details**:\n* Annual dental allowance: AED 1,000 - AED 3,000 per year for routine care (cleaning, fillings, extractions)\n* Major dental work (crowns, implants): subject to separate limit or approval\n* Coverage is part of the medical and insurance benefits provided by the company\n\n**Sources**: \n[Source 1: 03-uae-handbook.pdf (Page: 16)]",
+        "v1_time": 9.220417022705078,
+        "v2_time": 10.016946792602539,
+        "sources": [
+            "03-uae-handbook.pdf",
+            "00-common-policies.pdf",
+            "03-uae-handbook.pdf"
+        ]
+    },
+    {
+        "id": 2,
+        "category": "Answerable",
+        "question": "What are the working hours in Singapore?",
+        "v1_answer": "According to the provided context from [Source 1: 01-singapore-handbook.pdf (Page: 4)], the standard working hours in Singapore are:\n\n* 40 hours per week\n* 8 hours per day, 5 days per week (Monday to Friday)\n* Example schedule: 09:00 \u2013 18:00 (including 1 hour unpaid lunch break)\n\nAdditionally, the core collaboration hours are:\n* 10:00 \u2013 16:00 Singapore time (employees are expected to be available for meetings and collaboration)\n\nFlexible working hours may be available in some departments, subject to manager approval and team coordination, and must ensure overlap with core collaboration hours.",
+        "v2_answer": "**Direct Answer**: The standard working hours in Singapore are 40 hours per week, with 8 hours per day, 5 days a week, typically from Monday to Friday. The core collaboration hours are from 10:00 to 16:00 Singapore time.\n\n**Details**:\n* General pattern: 40 hours per week, 8 hours per day, 5 days per week (Monday to Friday)\n* Example schedule: 09:00 \u2013 18:00 (including 1 hour unpaid lunch break)\n* Core collaboration hours: 10:00 \u2013 16:00 Singapore time\n* Flexible working hours: Some departments offer flexitime, subject to manager approval and team coordination\n* Rest days: Employees are entitled to 1 rest day per week, typically Sunday\n\n**Sources**: [Source 1: 01-singapore-handbook.pdf (Page: 4)]",
+        "v1_time": 9.368415594100952,
+        "v2_time": 9.98676061630249,
+        "sources": [
+            "01-singapore-handbook.pdf",
+            "02-malaysia-handbook.pdf",
+            "01-singapore-handbook.pdf"
+        ]
+    },
+    {
+        "id": 3,
+        "category": "Partially Answerable",
+        "question": "What are the specific penalty amounts for late visa submission in Malaysia?",
+        "v1_answer": "The provided context does not contain information on late visa submission penalties in Malaysia. The context only discusses EPF, SOCSO, and EIS contributions, payment deadlines, and penalties related to these contributions, but does not mention visa submission penalties. Therefore, I cannot provide a specific answer to this question based on the given context.",
+        "v2_answer": "Direct Answer: The provided documents do not mention specific penalty amounts for late visa submission in Malaysia. The documents discuss EPF, SOCSO, and EIS contributions, payment deadlines, and late payment penalties, but do not cover visa submission penalties.\n\nDetails:\n* Late payment penalties for EPF and SOCSO contributions are 6% per annum on the outstanding amount.\n* The documents provide information on employment regulations, contributions, and benefits in Malaysia, but do not address visa submission specifically.\n\nSources: \n[Source 1: 02-malaysia-handbook.pdf], [Source 2: 02-malaysia-handbook.pdf]",
+        "v1_time": 10.029862880706787,
+        "v2_time": 10.20145583152771,
+        "sources": [
+            "02-malaysia-handbook.pdf",
+            "02-malaysia-handbook.pdf",
+            "01-singapore-handbook.pdf"
+        ]
+    },
+    {
+        "id": 4,
+        "category": "Unanswerable / Edge Case",
+        "question": "What is the company's policy on pet insurance in the USA?",
+        "v1_answer": "The context does not contain information about the company's policy on pet insurance in the USA. The provided sources only discuss policies and benefits related to Singapore, Malaysia, and the UAE, but do not mention the USA or pet insurance. Therefore, I cannot provide a specific answer to this question based on the given context.",
+        "v2_answer": "Direct Answer: The company's policy on pet insurance in the USA is not mentioned in the provided documents. Information not found in the documents.\n\nDetails: \n* The documents provided only discuss policies related to human resources, employee benefits, and insurance coverage for employees and their dependents in specific regions such as Singapore, Malaysia, and the UAE.\n* There is no mention of pet insurance or any related policies in the provided context.\n\nSources: \n* [Source 1: 00-common-policies.pdf]\n* [Source 2: 01-singapore-handbook.pdf]\n* [Source 3: 03-uae-handbook.pdf]",
+        "v1_time": 8.84536075592041,
+        "v2_time": 10.028874397277832,
+        "sources": [
+            "00-common-policies.pdf",
+            "01-singapore-handbook.pdf",
+            "03-uae-handbook.pdf"
+        ]
+    },
+    {
+        "id": 5,
+        "category": "Unanswerable",
+        "question": "How many coffee machines are in the Dubai office?",
+        "v1_answer": "The context does not contain information about the number of coffee machines in the Dubai office.",
+        "v2_answer": "Direct Answer: The number of coffee machines in the Dubai office is not specified in the provided documents. \n\nDetails: \n* The documents provide information on the company's mission, vision, and values, as well as its global presence and regulatory framework.\n* They also outline employee responsibilities, health and safety policies, and wellbeing initiatives, but do not mention specific office amenities like coffee machines.\n\nSources: \n[Source 1: 00-common-policies.pdf], \n[Source 2: 00-common-policies.pdf], \n[Source 3: 00-common-policies.pdf]",
+        "v1_time": 8.548713684082031,
+        "v2_time": 8.861603736877441,
+        "sources": [
+            "00-common-policies.pdf",
+            "00-common-policies.pdf",
+            "00-common-policies.pdf"
+        ]
+    },
+    {
+        "id": 6,
+        "category": "Partially Answerable",
+        "question": "Can I work remotely from another country for more than 3 months?",
+        "v1_answer": "Based on the provided context, the answer is not explicitly stated. The context mentions that fully remote work is available for specific roles or under exceptional circumstances, and it requires senior management approval. However, it does not provide information on working remotely from another country for an extended period.\n\nAccording to the context, remote work arrangements are subject to local regulations, and the company has a policy for remote work, but it does not specify the rules for working from another country. Therefore, it is unclear if working remotely from another country for more than 3 months is allowed.\n\nTo determine the answer, it would be necessary to consult additional sources, such as the company's remote work policy or relevant employment laws and regulations.",
+        "v2_answer": "**Direct Answer**: According to the provided policy documents, fully remote work is available for specific roles or under exceptional circumstances, but it requires senior management approval and is subject to review. There is no explicit mention of working remotely from another country for more than 3 months.\n\n**Details**:\n* Fully remote work requires senior management approval\n* It is subject to review and may be revoked if performance or collaboration suffers\n* Eligibility for remote work includes roles suitable for remote work, employees who have completed probation, and demonstrated ability to work independently\n* Remote work arrangements are subject to local regulations and operational needs\n\n**Sources**: \n[Source 1: 00-common-policies.pdf (Page: 7)] \n[Source 2: 00-common-policies.pdf (Page: 6)] \n[Source 3: 01-singapore-handbook.pdf (Page: 2)]",
+        "v1_time": 9.146647930145264,
+        "v2_time": 8.976378202438354,
+        "sources": [
+            "00-common-policies.pdf",
+            "00-common-policies.pdf",
+            "01-singapore-handbook.pdf"
+        ]
+    }
+]
