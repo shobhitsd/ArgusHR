@@ -167,8 +167,6 @@ Create a `.env` file:
 ```env
 VOYAGE_API_KEY=your_voyage_api_key
 GROQ_API_KEY=your_groq_api_key
-SUPABASE_URL=your_supabase_url        # Optional
-SUPABASE_KEY=your_supabase_key        # Optional
 ```
 
 ## Key Design Decisions
