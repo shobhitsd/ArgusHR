@@ -1,5 +1,0 @@
---- API Key Verification ---
-🔍 VOYAGE_API_KEY: pa-4Kb...JP85
-❌ VOYAGE_API_KEY: Failed - Error communicating with VoyageAI: HTTPSConnectionPool(host='api.voyageai.com', port=443): Max retries exceeded with url: /v1/embeddings (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x000001C814B634D0>: Failed to resolve 'api.voyageai.com' ([Errno 11001] getaddrinfo failed)"))
-🔍 GROQ_API_KEY: gsk_zE...DR0l
-✅ GROQ_API_KEY: Working
